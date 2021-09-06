@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/ChittyChat/static/css/main.a617e044.chunk.css",
-    "main.js": "/ChittyChat/static/js/main.40de1512.chunk.js",
-    "main.js.map": "/ChittyChat/static/js/main.40de1512.chunk.js.map",
+    "main.js": "/ChittyChat/static/js/main.61040165.chunk.js",
+    "main.js.map": "/ChittyChat/static/js/main.61040165.chunk.js.map",
     "runtime-main.js": "/ChittyChat/static/js/runtime-main.d161b100.js",
     "runtime-main.js.map": "/ChittyChat/static/js/runtime-main.d161b100.js.map",
     "static/css/2.d55b0982.chunk.css": "/ChittyChat/static/css/2.d55b0982.chunk.css",
-    "static/js/2.3c1c46fc.chunk.js": "/ChittyChat/static/js/2.3c1c46fc.chunk.js",
-    "static/js/2.3c1c46fc.chunk.js.map": "/ChittyChat/static/js/2.3c1c46fc.chunk.js.map",
+    "static/js/2.0df2ddb3.chunk.js": "/ChittyChat/static/js/2.0df2ddb3.chunk.js",
+    "static/js/2.0df2ddb3.chunk.js.map": "/ChittyChat/static/js/2.0df2ddb3.chunk.js.map",
     "static/js/3.70e25f89.chunk.js": "/ChittyChat/static/js/3.70e25f89.chunk.js",
     "static/js/3.70e25f89.chunk.js.map": "/ChittyChat/static/js/3.70e25f89.chunk.js.map",
     "index.html": "/ChittyChat/index.html",
     "static/css/2.d55b0982.chunk.css.map": "/ChittyChat/static/css/2.d55b0982.chunk.css.map",
     "static/css/main.a617e044.chunk.css.map": "/ChittyChat/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.3c1c46fc.chunk.js.LICENSE.txt": "/ChittyChat/static/js/2.3c1c46fc.chunk.js.LICENSE.txt",
+    "static/js/2.0df2ddb3.chunk.js.LICENSE.txt": "/ChittyChat/static/js/2.0df2ddb3.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/ChittyChat/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.d161b100.js",
     "static/css/2.d55b0982.chunk.css",
-    "static/js/2.3c1c46fc.chunk.js",
+    "static/js/2.0df2ddb3.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.40de1512.chunk.js"
+    "static/js/main.61040165.chunk.js"
   ]
 }
